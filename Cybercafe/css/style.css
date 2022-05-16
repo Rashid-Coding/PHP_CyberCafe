@@ -1,0 +1,42 @@
+
+/* * {
+  border: 0.3px solid black;
+} */
+
+/* body {
+  margin: 0 auto;
+  font-family: 'Poppins', sans-serif;
+  width: 90%;
+  max-width: 1080px;
+
+
+}
+
+.form {
+    padding: 10px;
+    margin: auto;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  } */
+
+  /* About */
+
+  .column {
+    float: left;
+    width: 20%;
+    padding: 35px;
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  
+  .card {
+    box-shadow: 0 9px 18px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
